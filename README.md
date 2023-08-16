@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 # npm run dev
+
+  VITE v4.4.7  
+
+  ➜  Local:   http://localhost:5173/
